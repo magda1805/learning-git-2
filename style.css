@@ -1,0 +1,16 @@
+body {
+  background-color: beige;
+}
+.container {
+  display: left;
+  justify-content: center;
+  font-size: small;
+}
+
+.title {
+  font-size: large;
+}
+
+.second-title {
+  font-size: medium;
+}
