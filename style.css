@@ -5,6 +5,7 @@ body {
   display: left;
   justify-content: center;
   font-size: small;
+  font-family: "Lucida Console", "Courier New", monospace;
 }
 
 .title {
